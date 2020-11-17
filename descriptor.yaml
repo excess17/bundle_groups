@@ -1,0 +1,5 @@
+code: bundle_groups
+description: bundle for groups
+components:
+  groups:
+    - groups/groups-descriptor.yaml
